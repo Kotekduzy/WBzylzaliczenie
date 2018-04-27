@@ -1,4 +1,5 @@
-= _Cześć, Kraków !!!_    
+= _Cześć, Kraków !!!_ 
+
 image::c700x420.jpg[c700x420,250]
 
 
