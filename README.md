@@ -1,5 +1,6 @@
 # Moje HTML
 
-* [Kraków](Krakow/doce.adoc).
-* [Mój HTML o Kraków](https://Kotekduzy.github.io/WBzylzaliczenie/).
+* [Gdynia](Gdynia/README.adoc).
+* [Mój HTML o Gdyni](https://mnke-j.github.io/my_html/).
+
 
