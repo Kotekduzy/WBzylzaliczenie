@@ -12,7 +12,7 @@ body {
 .one {
    
   grid-area: 1/1/4/4;
-  background-image: url(https://images.unsplash.com/photo-1508124780861-b1687f9a13e5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f841d43a63c085e930aa5b6b33e89a9f&auto=format&fit=crop&w=500&q=60);   
+  background-image: url(https://github.com/mnke-j/my_html/blob/master/Gdynia/ilovegdynialogo.png?raw=true);   
   background-size:contain;
   background-position: top left;
   }
@@ -24,23 +24,23 @@ body {
 
 .two {
   grid-area:1/4/5/6;
-  background-image: url(https://images.unsplash.com/photo-1508124780861-b1687f9a13e5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f841d43a63c085e930aa5b6b33e89a9f&auto=format&fit=crop&w=500&q=60);
+  background-image: url(http://g7.forsal.pl/p/_wspolne/pliki/1777000/1777567-gdynia.jpg);
   background-size:cover;
   background-position: top left;
 }
 .three {
   grid-area:4/1/7/3;
-  background-image:url(https://images.unsplash.com/photo-1515467068080-b58fdd1a9a66?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f2424faf1c14633e209d99d8a631c992&auto=format&fit=crop&w=500&q=60); 
+  background-image:url(https://images.unsplash.com/photo-1513738883496-ab16da46fbe0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cb7158d294f59cf73b854a6165a8b8c8&auto=format&fit=crop&w=600&q=60); 
   background-size:cover;
  
 }
 .four {
   grid-area:4/3/5/4;
-  background-image: url(https://images.unsplash.com/photo-1508124780861-b1687f9a13e5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f841d43a63c085e930aa5b6b33e89a9f&auto=format&fit=crop&w=500&q=60);
+  background-image: url(https://images.unsplash.com/photo-1513569369873-3f6af50652bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4b1a9bd2a3a0641bf963f4c22fe80da&auto=format&fit=crop&w=600&q=60);
 }
 .five {
   grid-area:5/3/7/6;
-  background-image: url(https://images.unsplash.com/photo-1508124780861-b1687f9a13e5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f841d43a63c085e930aa5b6b33e89a9f&auto=format&fit=crop&w=500&q=60);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEx09Y3Gtw2u7klsPxx9_kzgomSUdAIx35_YhZpPTPcDU-iMt);
   background-size:cover;
   background-position: top left;
 }
