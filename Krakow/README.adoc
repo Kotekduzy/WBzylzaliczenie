@@ -2,7 +2,7 @@
 
 image::c700x420.jpg[c700x420,250]
 
-http://krakow.pl/zalacznik/19943/4.jpg[300]
+http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
 
 == BIP Kraków:
