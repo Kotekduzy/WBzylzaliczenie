@@ -1,6 +1,6 @@
 = _Cześć, Kraków !!!_ 
 
-image::c700x420.jpg[c700x420,250]
+image::c700x420.jpg[c700x420,550]
 
 http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
