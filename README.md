@@ -1,4 +1,4 @@
 # Moje HTML
 
-* [Kraków](Kraków/README.adoc).
-* [Mój HTML o Kraków](https://Kotekduzy.github.io/my_html/).
+* [Gdynia](Gdynia/README.adoc).
+* [Mój HTML o Gdyni](https://mnke-j.github.io/my_html/).
