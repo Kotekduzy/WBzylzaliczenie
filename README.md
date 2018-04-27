@@ -1,5 +1,5 @@
 # Moje HTML
 
-* [Kraków](Krakow/README.adoc).
+* [Kraków](WBzylzaliczenie/README.adoc).
 * [Mój HTML o Kraków](https://Kotekduzy.github.io/WBzylzaliczenie/).
 
