@@ -1,0 +1,49 @@
+= _Cześć, Kraków!!!_     
+
+
+== BIP KRAKÓW:
+
+* [x] <http://krakow.pl/bip>
+
+* [x] <http://www.krakow.pl>
+
+
+
+== Powierzchnia:
+
+POWIERZCHNIA ogółem - 0000 ha.
+
+** Powierzchnia gruntów komunalnych wynosi 0000 ha.
+
+** Poza granicami miasta znajduje się 0000 ha.
+
+** Grunty Skarbu Państwa w użytkowaniu wieczystym wynoszą 000 ha.
+
+== Ludność Krakowa w liczbach:
+
+|===
+| Wyszczególnienie	|  na dzień 00 VI 2017
+| Ludność ogółem	| 000 643
+| mężczyźni | 00 517
+| kobiety | 00 126
+|===
+
+
+== Dzielnice miasta:
+[squere]
+.Renderowana lista nieuporządkowana z tytułem
+
+. XX
+
+. XX
+
+
+
+
+
+== Herb miasta Kraków:
+
+[#img-logo gdynia]
+.A Logo Gdynia
+[link=http://jogapilates.pl/wp-content/uploads/logo-Gdynia.jpg]
+image::logo-Gdynia.jpg[logo-Gdynia,600]
