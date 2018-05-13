@@ -1,4 +1,4 @@
-= _Cześć, Kraków !!!_ 
+= _Wspaniały, Kraków !!!_ 
 
 image::c700x420.jpg[c700x420,550]
 
@@ -16,24 +16,32 @@ http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
 == Powierzchnia:
 
-POWIERZCHNIA ogółem - 326,85 km².
+POWIERZCHNIA MIASTA - 326,85 km².
 
-** Wysokość	188–383 m n.p.m.
+** Wysokość, na której leży	188–383 m n.p.m.
 
-** Populacja (31.12.2017)
+** Populacja miasta (stan na 31.12.2017)
 • 
-• gęstość	
+gęstość	
 2347,7 os./km²
 
-** liczba ludności 767 348
+•
+iczba ludności 767348 osób
 
-== Ludność Miasta:
+== Ludność Miasta na przestrzeni lat:
 
 |===
-| Wyszczególnienie	|  na dzień 30 VI 2017
-| Ludność ogółem	| 00 643
-| mężczyźni | 00 517
-| kobiety | 00 126
+| 2004 r.	|  – 706 806
+| 2005 r.	|  – 706 381 Decrease2.svg
+| 2006 r.	|  – 704 859 Decrease2.svg
+| 2007 r.	|  – 705 408 Increase2.svg
+| 2009 r.	|  – 703 357 Decrease2.svg
+| 2011 r.	|  – 704 822 Increase2.svg
+| 2012 r.	|  – 704 622 Decrease2.svg
+| 2013 r.	|  – 704 228 Decrease2.svg
+| 2014 r.	|  – 704 532 Increase2.svg
+| 2015 r.	|  – 703 746 Decrease2.svg
+| 2016 r.	|  – 702 947 Decrease2.svg
 |===
 
 
