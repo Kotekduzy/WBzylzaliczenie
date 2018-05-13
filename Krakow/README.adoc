@@ -52,12 +52,11 @@ POPULACJA MIASTA (stan na 31.12.2017).
 
 
 
-== Herb Krakowa:
+== Logo Krakowa:
 
 [#img-logo krakowa]
 .A Logo Krakowa
-[link=http://jogapilates.pl/wp-content/uploads/logo-Gdynia.jpg]
-image::logo-Gdynia.jpg[logo-Gdynia,600]
+[http://www.krakow.pl/zalacznik/275057/4.jpg]
 
 ..
 
