@@ -5,11 +5,19 @@ image::c700x420.jpg[c700x420,550]
 http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
 
-== BIP Kraków:
+== Urząd Miasta Kraków:
 
 * [x] <http://www.bip.krakow.pl/>
 
 * [x] <http://www.krakow.pl>
+
+Urząd Miasta Krakowa
+Plac Wszystkich Świętych 3-4
+31-004 Kraków
+
+Centralna Informacja UMK
+tel.: 12 616 12 00, 12 616 12 07
+faks: 12 616 17 21
 
 
 
