@@ -49,11 +49,11 @@ POPULACJA MIASTA (stan na 31.12.2017).
 
 == Ludność Miasta na przestrzeni lat:
 
-|===
+|====
 | Nazwa dzielnicy|  Powierzchnia w ha | Liczba mieszkańców
-| Dzielnica I Stare Miasto| 556,76 | 35 573
-| 2006 r.	| | 
-| 2007 r.	|  – 705 408 ↑
+| Dzielnica I Stare Miasto | 556,76 | 35 573
+| Dzielnica II Grzegórzki	| 584,52 | 29 230
+| 2007 r.	|  
 | 2009 r.	|  – 703 357 ↓
 | 2011 r.	|  – 704 822 ↑
 | 2012 r.	|  – 704 622 ↓
