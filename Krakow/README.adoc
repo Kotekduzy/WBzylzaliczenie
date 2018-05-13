@@ -45,10 +45,26 @@ POPULACJA MIASTA (stan na 31.12.2017).
 
 == Dzielnice miasta:
 [squere]
-.Renderowana lista nieuporządkowana z tytułem
+.Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców. 
+
+== Ludność Miasta na przestrzeni lat:
+
+|===
+| Nazwa dzielnicy|  Powierzchnia w ha | Liczba mieszkańców
+| Dzielnica I Stare Miasto| 556,76 | 35 573
+| 2006 r.	| | 
+| 2007 r.	|  – 705 408 ↑
+| 2009 r.	|  – 703 357 ↓
+| 2011 r.	|  – 704 822 ↑
+| 2012 r.	|  – 704 622 ↓
+| 2013 r.	|  – 704 228 ↓
+| 2014 r.	|  – 704 532 ↑
+| 2015 r.	|  – 703 746 ↓
+| 2016 r.	|  – 702 947 ↓
+|===
 
 
-
+coś innego
 . xxx
 
 . xx
