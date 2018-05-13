@@ -44,8 +44,7 @@ POPULACJA MIASTA (stan na 31.12.2017).
 
 
 == Dzielnice miasta:
-[squere]
-.Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców. 
+[.Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców.]
 
 == Ludność Miasta na przestrzeni lat:
 
