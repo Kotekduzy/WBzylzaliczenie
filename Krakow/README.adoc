@@ -7,7 +7,7 @@ http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
 == BIP Kraków:
 
-* [x] <http://krakow.pl/bip>
+* [x] <http://www.bip.krakow.pl/>
 
 * [x] <http://www.krakow.pl>
 
