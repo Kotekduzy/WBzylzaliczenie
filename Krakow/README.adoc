@@ -48,8 +48,8 @@ Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców
 
 
 |====
-| Nazwa dzielnicy|  Powierzchnia w ha | Liczba mieszkańców
-| Dzielnica I Stare Miasto | 556,76 | 35 573
+|| Nazwa dzielnicy|  Powierzchnia w ha || Liczba mieszkańców
+|| Dzielnica I Stare Miasto || 556,76 || 35 573
 | Dzielnica II Grzegórzki	| 584,52 | 29 230
 | Dzielnica III	| 643,79 | 47 775	
 | Dzielnica	IV | 2341,87 | 69 135	
