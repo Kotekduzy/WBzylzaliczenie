@@ -43,6 +43,24 @@ POPULACJA MIASTA (stan na 31.12.2017).
 |===
 
 
+==coś innego
+. xxx
+
+. xx
+
+. x
+
+
+
+== Herb Krakowa:
+
+[#img-logo krakowa]
+.A Logo Krakowa
+[link=http://jogapilates.pl/wp-content/uploads/logo-Gdynia.jpg]
+image::logo-Gdynia.jpg[logo-Gdynia,600]
+
+..
+
 == Dzielnice miasta:
 Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców.
 
@@ -68,21 +86,3 @@ Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców
 | Dzielnica XVII | 2381,55 | 20 303	
 | Dzielnica XVIII	| 6540,99 | 54 588	
 |===
-
-==coś innego
-. xxx
-
-. xx
-
-. x
-
-
-
-== Herb Krakowa:
-
-[#img-logo krakowa]
-.A Logo Krakowa
-[link=http://jogapilates.pl/wp-content/uploads/logo-Gdynia.jpg]
-image::logo-Gdynia.jpg[logo-Gdynia,600]
-
-..
