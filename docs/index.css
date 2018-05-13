@@ -29,7 +29,7 @@ body {
 
 .two {
   grid-area:1/4/5/6;
-  background-image: url(https://eholiday.smcloud.net/mapy/zdjecia/big/starogard_gdanski-358.jpg);
+  background-image: url((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkXjx93S0y49FTD1q4VOo5uNh1ktIvj_gYA7Oa9JifB3KcuKZ8w);
   background-size: cover;
   background-position: center; 
 }
@@ -43,7 +43,7 @@ body {
 }
 .four {
   grid-area:4/3/5/4;
-  background-image: url(http://krakow.pl/zalacznik/19943/4.jpg);
+  background-image: url(http://www.krakowlife.pl/images/partydir/785.jpg);
   background-size: cover;
   background-position: center; 
 }
