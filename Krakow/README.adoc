@@ -69,7 +69,6 @@ http://www.krakow.pl/zalacznik/275057/4.jpg[LOGO]
 
 image::4.jpg[c350x210,225]
 
-..
 
 == Dzielnice miasta:
 Miasto dzieli się na 18 dzielnic o różnej powieszchni i liczbie miaszkańców.
