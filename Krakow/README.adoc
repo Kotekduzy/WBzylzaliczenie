@@ -54,7 +54,7 @@ POPULACJA MIASTA (stan na 31.12.2017).
 |===
 
 
-== Jakoś powietrza w Krakowie
+== Jakość powietrza w Krakowie
 Stacje kontroli i monitorowania powietrza:
 
 ** http://monitoring.krakow.pios.gov.pl/dane-pomiarowe/automatyczne
